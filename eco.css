@@ -1,0 +1,63 @@
+.entête {
+    display: flex;
+    align-items: center;
+    background-color: #f4f4f4;
+    gap: 40%;
+    padding: 1rem 2rem;
+    
+}
+.logo {
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.navigation a {
+    font-size: 32px;
+    text-decoration: none;
+    color: #333;
+}
+
+.navigation a:hover {
+    color: #0066cc;
+}
+.ligne1 {
+  display: flex;             /* Met les éléments côte à côte */
+  align-items: center;       /* Aligne verticalement au centre */
+  justify-content: space-between; /* Sépare le texte et l'image */
+  gap: 1px;                 /* Ajoute un espace entre les deux */
+
+#imageligne1 {
+    width: 25%;
+    height: 25%;
+
+}
+.vide1{
+ flex: 1;
+}
+}
+
+.ligne2 {
+  display: flex;             /* Met les éléments côte à côte */
+  align-items: center;       /* Aligne verticalement au centre */
+  justify-content: space-between; /* Sépare le texte et l'image */
+  gap: 1px;
+
+.vide1{
+ flex: 1;
+}
+  #imageligne2{
+    width: 25%;
+    hight: 25%;
+  }
+  }   
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+    background-color: lightblue; /* Remplacez par la couleur de votre choix */
+}
