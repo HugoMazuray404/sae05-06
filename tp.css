@@ -334,7 +334,13 @@ footer p {
     .jeu img {
         height: 220px;
     }
-
+    footer img{
+        display: block;
+        width: 60px;
+        height: 60px;
+        object-fit: contain;
+        transition: transform 0.2s ease;
+    }
     footer {
         flex-direction: column;
         justify-content: center;
