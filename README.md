@@ -10,29 +10,68 @@ Etudiant 4 ( référent ) : RIEGERT (mailto: heo.riegert@edu.univ-fcomte.fr   )
 
 ## Choix de conception  
 
-Pour la conception du site, nous nous sommes grandement inspirés du site officiel de ******* (disponible [ici](https://www.entreprise.com/fr-fr/)), du site d'un de ses principaux concurrents [xxxxxxxxxx](https://www.entreprise2.fr/) et nous avons pris comme référence la charte de ************** disponible [ici](doc/charte_graphique.pdf).    
+Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Ankama (disponible ici : https://www.ankama.com/fr), du site d'un de ses concurrents RiotGames et nous avons pris comme référence la charte de Lamdfall disponible [ici](charte_graphiquelandfall.pdf).   
 
 
 ## Développement Site Web et Validation des pages
 
 ### Page d'accueil
+**Auteur : chaibi Adam** 
+
+Vérification W3C : [https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugomazuray404.github.io%2Fsae05-06%2Findex.html]
+![](/ImageReadme/ADAM1accueil.png "")
+![](/ImageReadme/ADAM2accueil.png "")
+
+
+### Page économie
 
 **Auteur : chaibi Adam**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?
+Vérification W3C : [https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugomazuray404.github.io%2Fsae05-06%2Feconomie.html]
 
-
-### Présentation générale
-
-**Auteur : Nom Prénom**  
-
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
-
+![](/ImageReadme/ADAM1economie.png "")
+![](/ImageReadme/ADAM2economie.png "")
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
 
+### Page info jeux
+
+**Auteur : prud'homme armand** 
+
+Vérification W3C : [https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugomazuray404.github.io%2Fsae05-06%2Fpage_jeux.html]
+
+![](/ImageReadme/armandverif.png "")
+![](/ImageReadme/armandeco.png "")
 <br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+
+### Page écologie
+
+**Auteur : Riegert Théo** 
+
+Vérification W3C : [https://www.websitecarbon.com/website/tynet-boo8443/]
+
+![](/ImageReadme/Theo_eco_verif.png "")
+![](/ImageReadme/armandeco.png "")
+<br>
+
+### Page animations
+
+**Auteur : Mazuray Hugo** 
+
+Vérification W3C : [https://hugomazuray404.github.io/sae05-06/Animation.html]
+
+![](/ImageReadme/hugoanimationW3C.png "")
+![](/ImageReadme/hugoanimationECO.png "")
+<br>
+
+### Page histoire
+
+**Auteur : Mazuray Hugo** 
+
+Vérification W3C : [https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugomazuray404.github.io%2Fsae05-06%2Fhistoire.html]
+
+![](/ImageReadme/hugohistoireW3C.png "")
+![](/ImageReadme/hugohistoireECO.png "")
+<br>
 
 ## Répartition du travail
 
