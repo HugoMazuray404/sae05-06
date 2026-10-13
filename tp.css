@@ -5,6 +5,7 @@
 html {
     background-color: #ffffff;
     scroll-behavior: smooth;
+    text-decoration-line: none;
 }
 img {
     width: calc(100% - 28px);
