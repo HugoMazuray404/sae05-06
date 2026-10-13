@@ -276,15 +276,48 @@ main {
 }
 
 footer {
-    min-height: 80px;
+    min-height: 100px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 15px;
+    flex-wrap: wrap;
+    gap: 25px;
+    box-sizing: border-box;
     width: 100%;
     padding: 18px 5%;
     background: #302d29;
     color: #fffaf0;
+}
+
+footer nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+footer a {
+    display: inline-flex;
+    align-items: center;
+    color: #fffaf0;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #d6b98c;
+}
+
+footer img {
+    display: block;
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
+    transition: transform 0.2s ease;
+}
+
+footer img:hover {
+    transform: scale(1.06);
 }
 
 footer p {
@@ -292,20 +325,6 @@ footer p {
     color: #fffaf0;
 }
 
-footer img {
-    display: block;
-    width: 70px;
-    height: 70px;
-    object-fit: contain;
-    transition: transform 0.2s ease;
-
-}
-
-footer img:hover {
-    
-
-   transform: scale(1.06);
-}
 @media (max-width: 1000px) {
     .conteneur-jeux {
         grid-template-columns: repeat(2, minmax(0, 1fr));
