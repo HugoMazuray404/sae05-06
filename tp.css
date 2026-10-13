@@ -295,7 +295,7 @@ footer nav {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    flex-direction: column;
+    
 }
 
 footer a {
