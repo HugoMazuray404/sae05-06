@@ -6,6 +6,7 @@ html {
     background-color: #ffffff;
     scroll-behavior: smooth;
     text-decoration-line: none;
+    font-family: Oswald, sans-serif;
 }
 img {
     width: calc(100% - 28px);
